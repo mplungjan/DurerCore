@@ -32,8 +32,10 @@ Dürer tarot, art deck, engraved tarot system, renaissance tarot deck, philosoph
 
 **SEO = words inside Amazon listing + backend keywords**
 
-# # Trusted site code on each page: <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
-
+# # Trusted site code on each page: 
+```
+<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+```
 **SATURNIANA: THE CITY OF DÜRER** — Premium System Deck | Engraved Art Oracle Cards | Dürer-Inspired Physics Tarot | Collectible 89×127mm Art Deck
 
 ## EXPANSION
