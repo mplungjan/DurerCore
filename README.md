@@ -1,6 +1,6 @@
 # DÜRER CORE
 
-# # Paper and box
+## Paper and box
 
 Paper **MATTE**
 
