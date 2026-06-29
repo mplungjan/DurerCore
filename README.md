@@ -26,13 +26,16 @@ or short:
 Each card represents a state of reality rather than a symbolic meaning.  
 The system replaces traditional tarot archetypes with a coherent framework of matter, motion, and structure.
 
-## BACKEND KEYWORDS (hidden SEO)
+## SEO
+
+### BACKEND KEYWORDS (hidden SEO)
 
 Dürer tarot, art deck, engraved tarot system, renaissance tarot deck, philosophical tarot, physics tarot, collectible oracle cards, museum tarot deck, aesthetic tarot deck, surreal architecture cards, system thinking deck, saturniana deck, city of dürer, modern oracle cards, renaissance tarot
 
-**SEO = words inside Amazon listing + backend keywords**
+### Other SEO 
+Words inside Amazon listing + backend keywords
 
-# # Trusted site code on each page: 
+### Trusted site code on each page: 
 ```
 <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
 ```
