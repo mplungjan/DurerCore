@@ -46,6 +46,12 @@ FRACTURE → breakdown / rupture
 CORE → matter / reality / body  
 
 
+<p align="center">
+  <img src="Git_Assets/Overview.png" alt="Overview" width="360">
+  <img src="Git_Assets/Card%20reference%20sheet.png" alt="Front-Back reference sheet" width="360">
+  <img src="Git_Assets/Front_Back_Reference.png" alt="Front-Back reference sheet" width="360">
+</p>
+
 ## Paper and box
 
 Paper **MATTE**
