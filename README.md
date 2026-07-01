@@ -1,5 +1,51 @@
 # DÜRER CORE
 
+# Saturniana Arcana Structure
+
+**REIMAGINED MAJOR ARCANA:**
+
+MAGICIAN → THE ARCHITECT (Vector of Gravity)  
+EMPRESS → SOVEREIGN OF MATTER  
+HIEROPHANT → THE GATE  
+LOVERS → GRAVITY  
+CHARIOT → ORBIT  
+HERMIT → OBSERVER OF ORBIT  
+JUSTICE → AXIS  
+HANGED MAN → THRESHOLD  
+DEATH → FRACTURE CORE  
+DEVIL → FRACTURE / CORE  
+TEMPERANCE → ORBIT  
+
+**STRUCTURAL ARKANA (NEW LAYER)**
+
+THE CITY OF DÜRER → architecture of reality  
+THE CREATOR → conscious system observer  
+
+**MINOR ARCANA — CORE SYSTEM:**
+
+ACE → SOURCE OF MATTER  
+
+DUAL ORBIT → separation of motion  
+TRIANGULATION → stabilization of system  
+FIELD LOCK → structural formation  
+RESONANCE → harmonic alignment  
+EXPANSION → field acceleration  
+COMPLETION → cycle closure  
+VOID ORBIT → dissolution / break of structure  
+
+**COURT SYSTEM**
+
+PAGE → INIT (emergence state)  
+KNIGHT → VECTOR (motion state)  
+
+**DOMAIN STRUCTURE OF SATURNIANA**
+
+GRAVITY → attraction / emotional field  
+ORBIT → motion logic / cycles  
+FRACTURE → breakdown / rupture  
+CORE → matter / reality / body  
+
+
 ## Paper and box
 
 Paper **MATTE**
